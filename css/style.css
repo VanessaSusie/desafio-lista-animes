@@ -1,0 +1,44 @@
+body {
+    
+    font-family: 'Quicksand', sans-serif;
+    background-color: rgb(221, 180, 167);
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    height: 98.9vh;
+    margin:4px;
+
+}
+
+.div-border {
+
+    border:5px solid rgb(236, 113, 91);
+    height: 98.3%;
+}
+
+h1 {
+
+    font-size: 45px;
+    text-shadow:3px 3px 8px rgb(207, 49, 21);
+     
+}
+
+.margin {
+
+    margin-left: 1%;
+}
+
+p {
+
+    font-size: 20px;
+    margin-left: 1%;
+    
+}
+
+ul {
+
+    text-shadow: 1px 2px 3px rgb(243, 108, 108);
+}
+
+a {
+
+    text-shadow: 1px 2px 3px rgb(243, 108, 108); 
+}
